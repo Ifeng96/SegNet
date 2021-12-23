@@ -1,0 +1,1 @@
+from networks.SegNet.segnet import SegNet
